@@ -10,5 +10,5 @@ upd:
 down:
 	docker-compose down
 
-pbc:
-	-n php bin/console
+logs:
+	docker-compose logs
